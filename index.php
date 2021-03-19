@@ -1,5 +1,5 @@
 <?php
 
-"welcome to Openshift first project";
+print "welcome to Openshift first project";
 
 ?>
